@@ -1,0 +1,8 @@
+{
+  "name": "Екібастұздың цифрлық шежіресі",
+  "description": "Екібастұз қаласының тарихы, «Богатырь» кеніші, ГРЭС станциялары, Қосым Пішенбаев және тарихи мұралары туралы интерактивті шежірелік платформа.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
